@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksn199ms&label=Profile%20views&color=0e75b6&style=flat" alt="ksn199ms" /> </p>
 
-- 🔭 I’m currently working on [Food Items E-commerce app](https://github.com/ksn199ms/Food-Delivery)
+- 🔭 I’m currently working on [Social Media Web Application](https://github.com/ksn199ms/SocialNet)
 
 - 🌱 I’m currently learning **MERN Stack**
 

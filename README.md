@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksn199ms&label=Profile%20views&color=0e75b6&style=flat" alt="ksn199ms" /> </p>
 
-- 🔭 I’m currently working on [Social Media Web Application](https://github.com/ksn199ms/SocialNet)
+- 🔭 I’m currently working on [HelpHub 💙](https://github.com/ksn199ms/HelpHub-Full-Stack)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://ksn199ms.github.io/Personal-Website/](https://ksn199ms.github.io/Personal-Website/)
+- 👨‍💻 All of my projects are available at [ksn199ms.com](https://ksn199ms.github.io/Personal-Website/)
 
 - 💬 Ask me about **TECH related questions**
 
